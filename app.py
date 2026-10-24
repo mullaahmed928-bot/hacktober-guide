@@ -244,3 +244,9 @@ if question := st.chat_input("Type a message"):
 
     history.append({"role": "user", "content": question})
     history.append({"role": "assistant", "content": reply})
+
+
+
+
+
+
